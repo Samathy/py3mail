@@ -6,7 +6,7 @@ A plugin to py3status which displays the number of unread mail messages in a gma
 
 
 INSTALL
-*=======*
+=======
 
 To install this module, simply call py3status as follows: py3status -i ~/path/to/py3mail.py
 Make sure to add your Gmail username and password (in plain text) to py3mail.conf. You can create py3mail.conf if there is not already one present.
